@@ -38,7 +38,11 @@ This project uses [Playwright](https://playwright.dev/) for end-to-end testing. 
 
 ## Running Tests
 
-To execute all the tests in the project, run the following command:
+To execute all the tests in the project, run the following command on:
 
 ```bash
 npx playwright test
+```
+
+## Adding New Scenarios
+To start working on new tests, create your test files under the "tests" folder
